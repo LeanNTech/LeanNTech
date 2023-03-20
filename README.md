@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LeanN</h1>
-<h3 align="center">A passionate Python Developer and Tester QA Manual</h3>
+<h3 align="center">A passionate Python Developer and Tester QA</h3>
 
 - 🔭 I’m currently study on **computer engineering**
 
