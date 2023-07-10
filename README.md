@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LeanN</h1>
+<h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate Tester QA Junior and Python Programmer</h3>
 
 - 🔭 I’m currently study on **computer engineering**
