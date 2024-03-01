@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently study on **computer engineering**
 
-- 🌱 I’m currently learning ** Python, Java, C# , Mysql **
+- 🌱 I’m currently learning **Python, Java, C# , Mysql**
 
-- 💬 Ask me about **Programming, designing and testing **
+- 💬 Ask me about **Programming, designing and testing**
 
 - 📫 How to reach me **Brian.Retamal44@hotmail.com**
 
