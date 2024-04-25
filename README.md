@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently study on **computer engineering**
 
-- 🌱 I’m currently learning **Python, Java, C# , Mysql**
+- 🌱 I’m currently learning **Python, Java, Javascript, Mysql**
 
 - 💬 Ask me about **Programming, designing and testing**
 
